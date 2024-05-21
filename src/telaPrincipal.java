@@ -4,7 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class telaPrincipal extends JFrame{
-    private JLabel megaSena;
     private JButton gerarJogos;
     private JButton sorteioDaMega;
     private JButton LerJogos;
